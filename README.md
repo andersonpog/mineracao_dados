@@ -1,1 +1,1 @@
-# mineracao_dados
+# Arquivos da cadeira de mineração de dados
