@@ -1,14 +1,14 @@
-@autor: Anderson Almeida da silveira
+Autor: Anderson Almeida da silveira
 
-@contato: [email/git](https://github.com/andersonpog)
+Contato: github.com/andersonpog
 
-@data da última versão: data
+Data da última versão: 02/06/2024
 
-@versão: 1.0
+Versão: 1.0
 
-@Agradecimentos: Universidade Federal do Maranhão (UFMA), Professor Doutor Thales Levi Azevedo Valente, e colegas de curso.
+Agradecimentos: Universidade Federal do Maranhão (UFMA), Professor Doutor Thales Levi Azevedo Valente, e colegas de curso.
 
-@Copyright/License
+Copyright/License
 
 Este material é resultado de um trabalho acadêmico para a disciplina MINERAÇÃO DE DADOS APLICADA À ENGENHARIA, sobre a orientação do professor Dr. THALES LEVI AZEVEDO VALENTE, semestre letivo 2024.1, curso Engenharia da Computação, na Universidade Federal do Maranhão
 
